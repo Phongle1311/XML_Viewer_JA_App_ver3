@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">XML Viewer</string>
+    <string name="import_from_device">Import from device</string>
+    <string name="xml_icon">xml icon</string>
+    <string name="no_data_available">No data available</string>
 </resources>
